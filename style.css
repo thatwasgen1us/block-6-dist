@@ -1059,7 +1059,7 @@ button {
     font-weight: 500;
     line-height: 16px;
     letter-spacing: 0px;
-    text-align: right; }
+    text-align: center; }
     @media (min-width: 768px) {
       .footer__info p {
         text-align: right; } }
